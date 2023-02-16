@@ -1,0 +1,29 @@
+{
+  "hash": "fe39c644",
+  "browserHash": "cb05ab8c",
+  "optimized": {
+    "gsap": {
+      "src": "../../../../../node_modules/.pnpm/gsap@3.11.4/node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "542046b6",
+      "needsInterop": false
+    },
+    "dynamics.js": {
+      "src": "../../../../../node_modules/.pnpm/dynamics.js@1.1.5/node_modules/dynamics.js/lib/dynamics.js",
+      "file": "dynamics__js.js",
+      "fileHash": "785964f4",
+      "needsInterop": true
+    },
+    "vue": {
+      "src": "../../../../../node_modules/.pnpm/vue@3.2.47/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "13a83c53",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RSJERJUL": {
+      "file": "chunk-RSJERJUL.js"
+    }
+  }
+}
